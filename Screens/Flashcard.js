@@ -125,6 +125,7 @@ function FlashCards() {
     //Loads stored data on start up only
     const [appLoaded, setAppLoaded] = useState(false);
 
+    //Local
     if (!appLoaded) {
         return (
             <AppLoading
