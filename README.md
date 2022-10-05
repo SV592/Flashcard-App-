@@ -51,8 +51,8 @@ The expo server will start up and you will be free to use the
 application either by launching it on the web server or by downloading expo on your mobile device
 and scanning the QR code for a mobile emulator
 
-<div>
-<img src="https://user-images.githubusercontent.com/58669882/193310955-63b5b58b-44cb-40ac-869f-5e6011521681.jpg" width="20%" height="15%"">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58669882/193310955-63b5b58b-44cb-40ac-869f-5e6011521681.jpg" width="20%" height="15%">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -66,5 +66,5 @@ and scanning the QR code for a mobile emulator
 
 TROUBLESHOOTING
 ---------------------------------------------------------------------------------
-You may see a warning about a depreciated module called "expo-app-loading" this can be ignored.
-Continue to use the application as normal
+You may see a warning about a depreciated module called "expo-app-loading" this can be ignored for the time being.
+It will be patched in the near future
