@@ -51,11 +51,16 @@ The expo server will start up and you will be free to use the
 application either by launching it on the web server or by downloading expo on your mobile device
 and scanning the QR code for a mobile emulator
 
-
-![Screenshot_20220930-100310_Expo Go](https://user-images.githubusercontent.com/58669882/193310955-63b5b58b-44cb-40ac-869f-5e6011521681.jpg)
-
-
-![Screenshot_20220930-120142_Expo Go](https://user-images.githubusercontent.com/58669882/193311112-763ccfe1-ed53-43b2-bd13-da897124edfa.jpg)
+<div>
+<img src="https://user-images.githubusercontent.com/58669882/193310955-63b5b58b-44cb-40ac-869f-5e6011521681.jpg" width="20%" height="15%"">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="https://user-images.githubusercontent.com/58669882/193311112-763ccfe1-ed53-43b2-bd13-da897124edfa.jpg" width="20%" height="15%">
+</div>
 
 
 
