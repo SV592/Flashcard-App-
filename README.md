@@ -52,14 +52,19 @@ application either by launching it on the web server or by downloading expo on y
 and scanning the QR code for a mobile emulator
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/58669882/193310955-63b5b58b-44cb-40ac-869f-5e6011521681.jpg" width="20%" height="15%">
+<img src="https://user-images.githubusercontent.com/58669882/198306429-bd266119-50e6-44ad-b199-540c89666299.jpg" width="20%" height="15%">
 &nbsp;
 &nbsp;
 &nbsp;
+<img src="https://user-images.githubusercontent.com/58669882/198309578-d2c06298-a88c-42c0-9326-6195591b5740.jpg" width="20%" height="15%">
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://user-images.githubusercontent.com/58669882/193311112-763ccfe1-ed53-43b2-bd13-da897124edfa.jpg" width="20%" height="15%">
+<img src="https://user-images.githubusercontent.com/58669882/198309954-65b7e849-6143-4b6c-b913-ccea7098c236.jpg" width="20%" height="15%">
+&nbsp;
+&nbsp;
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/58669882/198309986-672d46d6-dee5-44f8-abb9-b83e4ac6b3a3.jpg" width="20%" height="15%">
 </div>
 
 
