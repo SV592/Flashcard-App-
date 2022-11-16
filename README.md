@@ -26,7 +26,7 @@ https://nodejs.org/en/
 Install GIT locally. Visit 
 https://git-scm.com/
 
-Install React Native. Run
+Install React Native (Expo Cli). Run
 `npm i -g expo-cli`
 
 
