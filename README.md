@@ -13,7 +13,8 @@ A mobile app developed with React Native that allows users to create, edit, and 
 ## 🛠️ Built With
 
 - **Frontend**: React Native, providing a cross-platform mobile application experience.
-- **Local Storage**: Data is stored locally on the device for persistent access to flashcards without an internet connection.
+- **State Management**: React hooks for managing component state.
+- **Local Storage**: Data is stored locally on the device using AsyncStorage for persistent access without an internet connection.
 
 ## 📋 Requirements
 
