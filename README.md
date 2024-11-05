@@ -1,4 +1,4 @@
-# Flashcard App
+# Flashcard App 🃏
 
 A mobile app developed with React Native that allows users to create, edit, and save multiple flashcards locally. This Flashcard App is designed to help users with studying and memory retention by allowing them to create personalized flashcards.
 
