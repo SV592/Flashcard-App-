@@ -32,6 +32,18 @@ To run the Flashcard App locally, follow these steps:
    git clone https://github.com/SV592/Flashcard-App-.git
    cd Flashcard-App-
 
+2. **Install Node.js and Expo CLI**
+
+   Download Node.js from Node.js Offical Site (https://nodejs.org/en/download/prebuilt-installer)
+   ```bash
+   npm install -g expo-cli
+   npm install
+   expo start
+
+This will launch the Expo development server. You can view the app on a web server for testing in a browser, or on a mobile device
+
+
+
 
 **Screenshots**
 <div align="center">
