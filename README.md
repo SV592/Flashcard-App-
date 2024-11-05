@@ -1,56 +1,39 @@
-# FlashCard App
+# Flashcard App
 
-DESCRIPTION
------------------------------------------------------------------------------------
-A development build for a mobile app in that allows the user to create multiple flashcards and save them locally.
+A mobile app developed with React Native that allows users to create, edit, and save multiple flashcards locally. This Flashcard App is designed to help users with studying and memory retention by allowing them to create personalized flashcards.
 
 
+## 📋 Features
 
-REQUIREMENTS
------------------------------------------------------------------------------------
-This app requires the following to function:
+- **Create Flashcards**: Users can create new flashcards with custom content, making the app versatile for any subject or topic.
+- **Edit and Manage**: Each flashcard can be edited, managed, and deleted as needed, allowing users to update content as they study.
+- **Offline Access**: Flashcards are saved locally on the device, allowing offline access for studying anytime, anywhere.
+- **User-Friendly Interface**: Simple and intuitive design with React Native for a smooth user experience.
 
-.[REACT] V18.0.0
-.[REACT-NATIVE] V0.69.6
-.[NODEJS] V14.15.1
-.[GIT] V2.29.2
-.[EXPO] V~46.0.13
+## 🛠️ Built With
 
+- **Frontend**: React Native, providing a cross-platform mobile application experience.
+- **Local Storage**: Data is stored locally on the device for persistent access to flashcards without an internet connection.
 
+## 📋 Requirements
 
-INSTALLATION
------------------------------------------------------------------------------------
-Install NODE locally as normal. Visit 
-https://nodejs.org/en/
+- **React**: v18.0.0
+- **React Native**: v0.69.6
+- **Node.js**: v14.15.1
+- **Git**: v2.29.2
+- **Expo**: ~46.0.13
 
-Install GIT locally. Visit 
-https://git-scm.com/
+## 🚀 Getting Started
 
-Install React Native (Expo Cli). Run
-`npm i -g expo-cli`
+To run the Flashcard App locally, follow these steps:
 
-
-
-CONFIGURATION
-----------------------------------------------------------------------------------
-Once you've downloaded or cloned the repo, go to the root directory 
-and run `npm i` in the terminal. This will install all the required node modules.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/SV592/Flashcard-App-.git
+   cd Flashcard-App-
 
 
-
-RUN
-----------------------------------------------------------------------------------
-Within the terminal. Run 
-`expo start`
-
-
-
-OUTPUT
-----------------------------------------------------------------------------------
-The expo server will start up and you will be free to use the 
-application either by launching it on the web server or by downloading expo on your mobile device
-and scanning the QR code for a mobile emulator
-
+**Screenshots**
 <div align="center">
 <img src="https://user-images.githubusercontent.com/58669882/198306429-bd266119-50e6-44ad-b199-540c89666299.jpg" width="20%" height="15%">
 &nbsp;
@@ -68,8 +51,3 @@ and scanning the QR code for a mobile emulator
 </div>
 
 
-
-TROUBLESHOOTING
----------------------------------------------------------------------------------
-You may see a warning about a depreciated module called "expo-app-loading" this can be ignored for the time being.
-It will be patched in the near future
